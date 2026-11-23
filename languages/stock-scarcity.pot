@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Stock Scarcity\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Example: Only %d left!"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Only %d left!"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show an alert below this number."
+msgstr ""
+
+msgid "Stock:"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Threshold"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
